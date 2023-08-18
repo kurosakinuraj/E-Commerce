@@ -1,0 +1,74 @@
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\appsettings.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\ocelot.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.exe
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.deps.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.runtimeconfig.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.pdb
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\bin\Debug\net6.0\Ocelot.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.ApiGatewayOcelot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGatewayOcelot.props
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGatewayOcelot.props
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGatewayOcelot.props
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\scopedcss\bundle\ApiGatewayOcelot.styles.css
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.csproj.CopyComplete
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\refint\ApiGatewayOcelot.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.pdb
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ApiGatewayOcelot\obj\Debug\net6.0\ref\ApiGatewayOcelot.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\appsettings.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\ocelot.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.exe
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.deps.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.runtimeconfig.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\ApiGatewayOcelot.pdb
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Ocelot.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.csproj.AssemblyReference.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.AssemblyInfoInputs.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.AssemblyInfo.cs
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.ApiGatewayOcelot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiGatewayOcelot.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiGatewayOcelot.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiGatewayOcelot.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\scopedcss\bundle\ApiGatewayOcelot.styles.css
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.csproj.CopyComplete
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\refint\ApiGatewayOcelot.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.pdb
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.genruntimeconfig.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ref\ApiGatewayOcelot.dll

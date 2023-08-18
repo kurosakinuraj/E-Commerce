@@ -1,0 +1,118 @@
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\ProductWebApi.exe
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\ProductWebApi.deps.json
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\ProductWebApi.runtimeconfig.json
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\ProductWebApi.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\ProductWebApi.pdb
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\JwtAuthManager.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\bin\Debug\net6.0\JwtAuthManager.pdb
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.ProductWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductWebApi.props
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductWebApi.props
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductWebApi.props
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\scopedcss\bundle\ProductWebApi.styles.css
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.csproj.CopyComplete
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\refint\ProductWebApi.dll
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.pdb
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ProductWebApi.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\E-Commerce App\ProductWebApi\obj\Debug\net6.0\ref\ProductWebApi.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\refint\ProductWebApi.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.pdb
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\ProductWebApi.exe
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\ProductWebApi.deps.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\ProductWebApi.runtimeconfig.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\ProductWebApi.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\ProductWebApi.pdb
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Npgsql.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\JwtAuthManager.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\bin\Debug\net6.0\JwtAuthManager.pdb
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.csproj.AssemblyReference.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.AssemblyInfoInputs.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.AssemblyInfo.cs
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.ProductWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.ProductWebApi.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ProductWebApi.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ProductWebApi.props
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\scopedcss\bundle\ProductWebApi.styles.css
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.csproj.CopyComplete
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ProductWebApi.genruntimeconfig.cache
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ProductWebApi\obj\Debug\net6.0\ref\ProductWebApi.dll

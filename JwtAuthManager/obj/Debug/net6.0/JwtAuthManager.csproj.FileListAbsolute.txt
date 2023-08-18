@@ -1,0 +1,12 @@
+C:\Users\Nitro\source\repos\JwtAuthManager\bin\Debug\net6.0\JwtAuthManager.deps.json
+C:\Users\Nitro\source\repos\JwtAuthManager\bin\Debug\net6.0\JwtAuthManager.dll
+C:\Users\Nitro\source\repos\JwtAuthManager\bin\Debug\net6.0\JwtAuthManager.pdb
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\JwtAuthManager.csproj.AssemblyReference.cache
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\JwtAuthManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\JwtAuthManager.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\JwtAuthManager.AssemblyInfo.cs
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\JwtAuthManager.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\JwtAuthManager.dll
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\refint\JwtAuthManager.dll
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\JwtAuthManager.pdb
+C:\Users\Nitro\source\repos\JwtAuthManager\obj\Debug\net6.0\ref\JwtAuthManager.dll
