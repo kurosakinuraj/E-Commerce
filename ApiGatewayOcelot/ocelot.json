@@ -27,6 +27,8 @@
         }
       ],
       "DownstreamPathTemplate": "/api/Product"
+
+        //Authentication through ocelot gateway
       //"AuthenticationOptions": {
       //  "AuthenticationProviderKey": "Bearer",
       //  "AllowedScopes": []
