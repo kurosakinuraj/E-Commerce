@@ -4,7 +4,7 @@
     //Authentication Web Api
     {
       "UpstreamPathTemplate": "/api/Account",
-      "UpstreamHttpMethod": ["Post"],
+      "UpstreamHttpMethod": [ "Post" ],
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
@@ -27,6 +27,15 @@
         }
       ],
       "DownstreamPathTemplate": "/api/Product"
+
+        //Authentication through ocelot gateway
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //},
+      //"RouteClaimsRequirement": {
+      //  "Role": "Administrator"
+      //}
     },
     {
       "UpstreamPathTemplate": "/api/Product/{productId}",
@@ -39,6 +48,13 @@
         }
       ],
       "DownstreamPathTemplate": "/api/Product/{productId}"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //},
+      //"RouteClaimsRequirement": {
+      //  "Role": "Administrator"
+      //}
     },
 
     // Order Web API
@@ -53,6 +69,13 @@
         }
       ],
       "DownstreamPathTemplate": "/api/Order"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //},
+      //"RouteClaimsRequirement": {
+      //  "Role": "Administrator"
+      //}
     },
     {
       "UpstreamPathTemplate": "/api/Order/{orderId}",
@@ -65,6 +88,13 @@
         }
       ],
       "DownstreamPathTemplate": "/api/Order/{orderId}"
+      //"AuthenticationOptions": {
+      //  "AuthenticationProviderKey": "Bearer",
+      //  "AllowedScopes": []
+      //},
+      //"RouteClaimsRequirement": {
+      //  "Role": "Administrator"
+      //}
     }
   ],
   "GlobalConfiguration": {

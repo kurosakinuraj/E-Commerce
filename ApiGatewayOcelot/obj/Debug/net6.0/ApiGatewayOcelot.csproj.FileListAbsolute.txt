@@ -72,3 +72,14 @@ C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ref
 C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.pdb
 C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ApiGatewayOcelot.genruntimeconfig.cache
 C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\obj\Debug\net6.0\ref\ApiGatewayOcelot.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\JwtAuthManager.dll
+C:\Users\Nitro\Documents\GitHub\E-Commerce\ApiGatewayOcelot\bin\Debug\net6.0\JwtAuthManager.pdb
