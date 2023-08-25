@@ -1,8 +1,11 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Newtonsoft.Json;
 using ProductWebApi.Context;
 using ProductWebApi.Model;
 using ProductWebApi.Services;
+using ProductWebApi.Services.Producer;
+using System.Text.Json;
 
 namespace ProductWebApi.Controllers
 {
@@ -11,10 +14,12 @@ namespace ProductWebApi.Controllers
     public class ProductController : ControllerBase
     {
         private readonly IProductService _productService;
+        private readonly IProductProducer _productProducer;
 
-        public ProductController(IProductService productService)
+        public ProductController(IProductService productService,IProductProducer productProducer)
         {
             _productService = productService;
+            _productProducer = productProducer;
         }
 
         [HttpGet]
@@ -90,6 +95,8 @@ namespace ProductWebApi.Controllers
                 else
                 {
                     await _productService.Update(product);
+                    //kafka producer
+                   //await _productProducer.Produce("product-changes", JsonConvert.SerializeObject(product));
                     return Ok();
                 }
             }

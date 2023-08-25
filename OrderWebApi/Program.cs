@@ -2,6 +2,8 @@ using Microsoft.EntityFrameworkCore;
 using OrderWebApi.Context;
 using JwtAuthManager;
 using OrderWebApi.Services;
+using Confluent.Kafka;
+using OrderWebApi.Services.KafkaConsumer;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,6 +11,10 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddScoped<IOrderService, OrderService>();
 builder.Services.AddControllers();
 builder.Services.AddCustomJwtAuthentication();
+
+//kafka consumer
+builder.Services.AddSingleton
+    <IHostedService, KafkaConsumerService>();
 
 //Register DB
 
